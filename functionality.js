@@ -1,3 +1,4 @@
+
 function method1(){
 	var temp = parent.contentFrame.document.title;
     var temp1 = temp.indexOf("Tutorial");

@@ -1,8 +1,10 @@
 {
-	"manifest_version": 1,
+	"manifest_version": 2,
 	"name" : "Cheaters Win Sometimes",
 	"description" : "A Helped tool for ECE 252 tutorial quizzes",
 	"version" : "0.1",
+
+	"web_accessible_resources": ["functionality.js"]
 
 	"browser_action" : {
 		"default_popup" : "popup.html",
